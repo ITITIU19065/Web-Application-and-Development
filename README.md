@@ -1,11 +1,12 @@
 # Web-Application-and-Development
 <h1 align="center">:blush: PROJECT REPORT :100:</h1>
 
-<h2 align="center">Happy Bookstore
-    <img src="./IMGReport/Logoo.png" width="36"/>
+<h2 align="center">Pos Coron- Ecommerce Shopping Web
 </h2>
 
-
+## Members:
+- [Nguyen Ngoc Bao  - ITITIU19084](https://www.facebook.com/profile.php?id=100008043999306)
+- [Hoang Tuan Kiet - ITITIU19]()
 
 
 CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
