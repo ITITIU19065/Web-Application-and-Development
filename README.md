@@ -26,6 +26,7 @@
     * [3.4: System Design Specification](#3.4)
         * [3.4.1: Use – Case Diagram](#3.4.1)
         * [3.4.2: Sequence Diagram](#3.4.2)
+        * [3.4.3: Activity Diagram](#3.4.3)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
     * [Section 4.1: Configure database connection:](#4.1)
     * [Section 4.2: Add run mySQL file to add data](#4.2)
@@ -573,13 +574,60 @@ Main Success Scenario :
 &emsp;<h3 id="3.4">3.4:	System Design Specification</h3>
 &emsp;&emsp;<h4 id="3.4.1">3.4.1: Use – Case Diagram</h4>
 
-![image](https://user-images.githubusercontent.com/94380995/173072600-3561f55e-24ea-4bcf-b19f-ab128f7f9859.png)<br>
+![image](https://user-images.githubusercontent.com/94380995/173072600-3561f55e-24ea-4bcf-b19f-ab128f7f9859.png)<br/>
 
 
 &emsp;&emsp;<h4 id="3.4.2">3.4.2: Sequence Diagram</h4>
-Login to an Account [Use case 1]:
-![image](https://user-images.githubusercontent.com/94380995/173073994-dbdedfcf-06a3-4810-844f-906624300077.png)
+Login to an Account Sequence Diagram:
 
+![image](https://user-images.githubusercontent.com/94380995/173073994-dbdedfcf-06a3-4810-844f-906624300077.png)<br/>
+
+Register new account Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173088665-ea5c5890-f2d7-4db7-962b-16f996181d62.png)<br/>
+
+Password Recovery Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173089482-60ea6676-c5f4-4730-9b18-9ec141f6149d.png)<br/>
+
+Display index page Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173089679-45e86e54-457e-4139-a473-e1b41c3b7f85.png)
+
+
+Search product Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173089802-2d535d5d-0fe1-4646-baab-c542cc41aa90.png)
+
+View detail Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173089954-66d5d569-f4bd-484f-a260-7f406da58353.png)
+
+Add product to wish list Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173090214-0e2ddab9-61e7-488e-aad3-b10b856ede05.png)
+
+Add product to cart Sequence Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173090349-6736c8d0-df9c-4b1b-b52f-2625447b0819.png)
+
+&emsp;&emsp;<h4 id="3.4.3">3.4.3: Activity Diagram</h4>
+Customer register Activity Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173090788-411bb4fe-eefa-482e-a41f-51714e6fd5c6.png)
+
+
+Customer Login Activity Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173091024-e4d3743b-8515-4ce1-8d66-6d92486426b8.png)
+
+Password Recovery Activity Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173091163-d888e78a-a532-407b-b467-a186dad52765.png)
+
+Admin add new item Activity Diagram:
+
+![image](https://user-images.githubusercontent.com/94380995/173091274-3deac474-3aa1-4938-8aaa-2045ff1440a1.png)
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
