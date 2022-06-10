@@ -53,13 +53,13 @@
 
 &emsp;<h3 id="1.2">1.2.	Problems Statement</h3>
 Some of the problems that the team will likely encounter throughout the process of developing the project are:
-    - Every member is still extremely novice to Web Development.
-    - There is not much time since most member have multiple projects to work on during this semester.
-    - There may be difficulties in designing an attractive website.
-    - There may be difficulties in creating a fully functional website.
-    - There may be difficulties in connecting the database with the website.
-    - There may be difficulties in making a secure website.
-    - There may be difficulties in working on the project together since teamwork has never been easy.
+- Every member is still extremely novice to Web Development.
+- There is not much time since most member have multiple projects to work on during this semester.
+- There may be difficulties in designing an attractive website.
+- There may be difficulties in creating a fully functional website.
+- There may be difficulties in connecting the database with the website.
+- There may be difficulties in making a secure website.
+- There may be difficulties in working on the project together since teamwork has never been easy.
 
 
 
