@@ -6,7 +6,12 @@
 
 ## Members:
 - [Nguyen Ngoc Bao  - ITITIU19084](https://www.facebook.com/profile.php?id=100008043999306)
-- [Hoang Tuan Kiet - ITITIU19]()
+- [Hoang Tuan Kiet - ITITIU19065](https://www.facebook.com/tuankiet.hoang.718)
+## Contribute:
+| Name | Job | Contribute |
+| --- | --- | --- |
+| Nguyen Ngoc Bao - ITITIU19084 | Back End,Report,Diagram | 40% |
+| Hoang Tuan Kiet - ITITIU19065 | Front end,Report,Power Point,Diagram  | 40% |
 
 
 ## Table of Contents:
@@ -36,12 +41,10 @@
     * [Section 4.4: Login Page](#4.4)
         * [Section 4.5: Register new account](#4.4.1)
         * [Section 4.6: Login by new account](#4.4.2)
-* [Chapter V: Implementation](#implementation)
+* [Chapter V: References](#implementation)
     * [Section 1: Software Processing Model](#model-processing-model)
     * [Section 2: Execution](#execution)
-* [Chapter VI: Testing](#testing)
-* [Chapter VII: Conclusion](#conclusion)
-* [Chapter VIII: References](#references)
+
 
 
 <h2 id="intro">Chapter I: Introduction</h2>
