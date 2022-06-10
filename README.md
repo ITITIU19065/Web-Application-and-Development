@@ -10,9 +10,9 @@
 
 
 ## Table of Contents:
-* [Chapter I:Introduction](#1.1)
-    * [1.1: Motivation](#1.2)
-    * [1.2: The Purpose of the Project](#purpose)
+* [Chapter I:Introduction](#intro)
+    * [1.1: Motivation](#1.1)
+    * [1.2:	Problems Statement](#1.2)
         * [Motivation](#motivation)
         * [Objection](#objection)
         * [Scope](#scope)
@@ -52,7 +52,19 @@
 </p>
 
 &emsp;<h3 id="1.2">1.2.	Problems Statement</h3>
-    
+Some of the problems that the team will likely encounter throughout the process of developing the project are:
+
+    *Every member is still extremely novice to Web Development.
+    *There is not much time since most member have multiple projects to work on during this semester.
+    *There may be difficulties in designing an attractive website.
+    *There may be difficulties in creating a fully functional website.
+    *There may be difficulties in connecting the database with the website.
+    *There may be difficulties in making a secure website.
+    *There may be difficulties in working on the project together since teamwork has never been easy.
+
+
+
+
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
         &emsp;&emsp;- fisrt, open the package context<br/>
