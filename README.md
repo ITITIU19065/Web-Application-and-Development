@@ -29,12 +29,12 @@
         * [Section 3.2: Software Resources](#software)
         * [Section 3.3: Human Resources](#human)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
-    * [Section 1: Use Case Diagram](#use-case)
-    * [Section 2: Use Case Description](#use-case-des)
-    * [Section 3: Activity Diagram](#activity)
-    * [Section 4: Class Diagram](#class)
-    * [Section 5: Sequence Diagram](#sequence)
-    * [Section 6: Sequence Diagram overall](#sequence-overall)
+    * [Section 4.1: Configure database connection:](#4.1)
+    * [Section 4.2: Add run mySQL file to add data](#4.2)
+    * [Section 4.3: Run the project:](#4.3)
+    * [Section 4.4: Login Page](#4.4)
+        * [Section 4.5: Register new account](#4.4.1)
+        * [Section 4.6: Login by new account](#4.4.2)
 * [Chapter V: Implementation](#implementation)
     * [Section 1: Software Processing Model](#model-processing-model)
     * [Section 2: Execution](#execution)
@@ -44,21 +44,21 @@
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
-    &emsp;4.1: Configure database connection: <br/>
+    &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
         &emsp;&emsp;- fisrt, open the package context<br/>
         &emsp;&emsp;- second, change the username and password before run the project is neccessary. NOTE: Using the default username and password of yor WorkBrench IDE <br/>
         ![image](https://user-images.githubusercontent.com/94380995/172983335-53be9511-9ad7-4e92-8eb1-0093f830b261.png)<br/><br/>
-    &emsp; 4.2:  Add run mySQL file to add data<br/>
+    &emsp; <h3 id="4.2">4.2:  Add run mySQL file to add data</h3><br/>
         &emsp;&emsp; - first, open the package DB_MYSQL, then run the this file in MYSQL workbench to get all neccessary date for project.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/172984921-11d6cc30-a4ae-4dd2-9079-013a5ca8845b.png)<br/><br/>
-    &emsp; 4.3: Run the project:<br/>
+    &emsp; <h3 id="4.3">4.3: Run the project:</h3><br/>
         ![image](https://user-images.githubusercontent.com/94380995/172985173-44d4d2cd-3631-4b77-8717-02ac93bc0e2c.png)<br/>
         &emsp;&emsp;; - Choose server Tomcat to run projet
         ![image](https://user-images.githubusercontent.com/94380995/172985267-acfae45d-2809-4f53-b33f-2e52419fd67a.png)<br/><br/>
-    &emsp; 4.4: Login Page<br/>
+    &emsp; <h3 id="4.4">4.4: Login Page</h3><br/>
         &emsp;&emsp; - after run project, the login page will appeare to requirt the user login before go to index page of website.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/172986125-010066c3-88f6-4d27-b73f-cc8e8b53fdb6.png)<br/>
-        &emsp;&emsp; 4.4.1: Register new account.<br/>
+        &emsp;&emsp;<h3 id="4.4.1"> 4.4.1: Register new account.</h3><br/>
         &emsp;&emsp;&emsp; *Condition 1: if user does not input anything and click Register button. Website will send danger message for user to input all fields.<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172986746-49d802ec-ee5e-4e63-b95b-30326648aa64.png)<br/>
         &emsp;&emsp;&emsp; *Condition 2: if user choose exist account in database the website will send message for user choose another account.<br/>
@@ -69,7 +69,7 @@
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987501-42605bf1-2cd6-4a63-902a-29fe165f7813.png)<br>
         &emsp;&emsp;&emsp;Successfully Register:
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987780-e17de458-a791-48f7-80a8-4c551f56e9c3.png)<br/><br/>
-        &emsp;&emsp; 4.4.2: Login by new account.<br/>
+        &emsp;&emsp; <h3 id="4.4.2">4.4.2: Login by new account.</h3><br/>
         &emsp;&emsp;&emsp; *Condition 1: if user does not input anything and click Login button. Website will send danger message for user to input all fields.<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987893-72c4f324-7b1c-40ef-9d70-3188bb8677f2.png)<br/>
         &emsp;&emsp;&emsp; *Condition 2: if all fields input by user is valid, the website send redirect to index Page of ecommerce shopping.<br/>
