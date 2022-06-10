@@ -144,6 +144,7 @@ Framework:
 List out all of the user’s requirement, which is also the system’s functionalities, in this section.
 
 &emsp;<h3 id="3.2">3.2: Functional Requiremen</h3>
+
 <h5>Use Case 1: Register</h5>
 
 | Aspect | Trigger | Actors |
@@ -164,6 +165,38 @@ Alternative Scenarios :
     - System display message “Email is not exist, please enter again”
 - Customer enter invalid or empty password
     - System display “Invalid password, please enter again”
+
+<h5>Use Case 2: Login</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin and user to log into the system to
+perform many actions. | When someone attempts to use
+system functions.
+ | Admin, customer |  
+
+Main Success Scenario :
+- User selects a login option.
+- Login interface is produced.
+- User enters password and username.
+- System validates input against system database.
+- System accepts user type.
+- System displays “Successfully login” message.
+- System automatically open home page
+
+
+Alternative Scenarios :
+- Either user name field of password field is empty or contain unaccepted characters. Error message display to verify input:
+
+    - Let’s user to re-enter username/password.
+    - Person use forgot password:
+    - System asked user to recover password
+    - User type new password and answer the security question.
+    - System validates e-mail and display window for them to change their password and system update database if the answer is matched.
+-	Username/Password invalid:
+    - System notifies “invalid username/password”.
+    - Let’s user to re-enter login information again.
+
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
