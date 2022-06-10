@@ -71,7 +71,7 @@ During the project, some of the below issues may have higher chances to be resol
 &emsp;<h3 id="2.1">2.1.	Similar Applications / Systems:</h3>
 There are obviously many websites that provides the same functionalities as our website, and most of them are better in multiple ways:
 
-Shoppee: <a href="https://shopee.vn/">Shoppe Link</a>
+<h4><a href="https://shopee.vn/">Shoppe Link</a></h4>
 Strengths:
 - Users can login to an account.
 - Users have their own account, which can connect to Facebook and Instagram.
