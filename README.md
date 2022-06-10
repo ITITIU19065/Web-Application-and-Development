@@ -143,7 +143,7 @@ Framework:
 &emsp;<h3 id="3.1">3.1.	System Requirement Specification</h3>
 List out all of the user’s requirement, which is also the system’s functionalities, in this section.
 
-&emsp;<h3 id="3.2">3.2: Functional Requiremen</h3>
+&emsp;<h3 id="3.2">3.2: Functional Requirement</h3>
 
 <h5>Use Case 1: Register</h5>
 
@@ -394,8 +394,7 @@ Main Success Scenario :
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
-| System must be able allowed admin to edit new product | When administrator clicks on
-“Manage Product” then click “Edit product” | Admin |  
+| System must be able allowed admin to edit new product | When administrator clicks on “Manage Product” then click “Edit product” | Admin |  
 
 Main Success Scenario :
 -	Login the Admin account.
