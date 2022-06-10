@@ -146,11 +146,14 @@ List out all of the user’s requirement, which is also the system’s functiona
 &emsp;<h3 id="3.2">3.2: Functional Requiremen</h3>
 Use Case 1: Register
 
-| Req.ID | Requirement Name | Detailed Description | Type |
+| Aspect | Trigger | Actors |
 | --- | --- | --- | --- |
-| 001 | Register an account | If the user doesn’t have an account, then he will be asked to register. | Functional requirement |  
-| 002 | Log in | If the customer or manager already had an account, they can log in. | Functional Requirement |
-| 003 | Change password | Allow users  to change their password. | Functional Requirement |
+| System must be able allowed admin and user to log into the system to
+perform many actions.
+ | When someone attempts to use
+system functions.
+ | Customer |  
+
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
