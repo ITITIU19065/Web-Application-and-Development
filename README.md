@@ -147,12 +147,8 @@ List out all of the user’s requirement, which is also the system’s functiona
 Use Case 1: Register
 
 | Aspect | Trigger | Actors |
-| --- | --- | --- | --- |
-| System must be able allowed admin and user to log into the system to
-perform many actions.
- | When someone attempts to use
-system functions.
- | Customer |  
+| --- | --- | --- |
+| System must be able allowed admin and user to log into the system toper form many actions. | When someone attempts to use system functions. | Customer |  
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
