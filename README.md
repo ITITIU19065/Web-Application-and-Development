@@ -31,7 +31,7 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987893-72c4f324-7b1c-40ef-9d70-3188bb8677f2.png)<br/>
         &emsp;&emsp;&emsp; *Condition 2: if all fields input by user is valid, the website send redirect to index Page of ecommerce shopping.<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172988164-b3f7ab2d-ad13-4b33-80cd-7bf0095c1609.png)<br/><br/>
-    &emsp; 4.5: Index Home Page Of User<br/>
+    &emsp; 4.5: Index Home Page Of User<br/>![image](https://user-images.githubusercontent.com/94380995/172990816-a6655496-cdd1-4170-8dda-1d2c10dcbd68.png)<br/>
         &emsp;&emsp; - In index home page of user, user can use all of function such as: 
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172989456-fbab2318-8c66-4dbb-91c1-641270112030.png)<br/>
             &emsp;&emsp;&emsp; + My WishList: wish list will store all product which user like in database and load it on the index page when user login. when user click Add Wish Button this product will be stored in database and display in wishList area or wishList Page<br/>
@@ -40,6 +40,14 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
             &emsp;&emsp;&emsp; + log out and delete all product in cart list then send redirect to login page.<br/>
             &emsp;&emsp;&emsp; + search area: use can search product by name.<br/>
             &emsp;&emsp;&emsp; + search by category navbar: user can search by category name, brand name, and price.<br/>
+            &emsp;&emsp; 4.5.1: Product Line:<br/>
+            &emsp;&emsp;&emsp; - there are 3 line to dislay product: <br/>
+            &emsp;&emsp;&emsp;&emsp; + Newest Product: this line will display newest product in system <br/>
+             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990271-fe2ff0e8-9e56-4891-84f1-282becbac775.png)<br/>
+            &emsp;&emsp;&emsp;&emsp; + All product: this line will show all product in system <br/>
+             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990351-e6f1be98-fc8e-47b4-b627-d6a2e31bbf30.png)<br/>
+            &emsp;&emsp;&emsp;&emsp; + Sale off Product: display all sale of product in system include discount percent, discout price and initial price. product at this line will be added "HOT" tag on image<br/>
+             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990600-4cfb0804-a288-4d48-8b66-80dcb230c94a.png)<br/>
 
 
 
