@@ -568,6 +568,10 @@ Main Success Scenario :
 | --- | --- |
 | The system shall be deployed within six months. The system shall be completed within the allocated budget. | The system should be implemented with HTML and CSS for interfaces, PHP for sever side scripting, JSP& Servlet, Tomcat for the validation and MYSQL for database management system. The environment that shall be hosting the system should contain minimum hardware requirements. The environmental that shall be hosting the system should contain minimum software requirements. (Windows 10) | 
 
+&emsp;<h3 id="3.4">3.4:	System Design Specification</h3>
+&emsp;&emsp;<h4 id="3.4.1">3.4.1: Use – Case Diagram</h4>
+
+![image](https://user-images.githubusercontent.com/94380995/173072600-3561f55e-24ea-4bcf-b19f-ab128f7f9859.png)<br>
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
