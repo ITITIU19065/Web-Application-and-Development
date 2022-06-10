@@ -27,6 +27,8 @@
         * [3.4.1: Use – Case Diagram](#3.4.1)
         * [3.4.2: Sequence Diagram](#3.4.2)
         * [3.4.3: Activity Diagram](#3.4.3)
+        * [3.4.4: Entity – Relationship Diagram](#3.4.4)
+        * [3.4.5: Database Relational Schema](#3.4.5)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
     * [Section 4.1: Configure database connection:](#4.1)
     * [Section 4.2: Add run mySQL file to add data](#4.2)
@@ -628,6 +630,14 @@ Password Recovery Activity Diagram:
 Admin add new item Activity Diagram:
 
 ![image](https://user-images.githubusercontent.com/94380995/173091274-3deac474-3aa1-4938-8aaa-2045ff1440a1.png)
+
+&emsp;&emsp;<h4 id="3.4.4">3.4.4: Entity – Relationship Diagram</h4>
+
+![Entity Diagram drawio](https://user-images.githubusercontent.com/94380995/173092487-e62ece4a-8087-4ea8-8975-72144d952e39.png)
+
+&emsp;&emsp;<h4 id="3.4.5">3.4.5: Database Relational Schema</h4>
+
+![image](https://user-images.githubusercontent.com/94380995/173092686-d4a82034-d63c-4544-8155-470fa630c2a2.png)
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
