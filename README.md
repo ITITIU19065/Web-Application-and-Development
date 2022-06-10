@@ -194,6 +194,107 @@ Alternative Scenarios :
     - System notifies “invalid username/password”.
     - Let’s user to re-enter login information again.
 
+<h5>Use Case 3: View profile</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to view their profile | When customer click on “View profile” | Customer |  
+
+Main Success Scenario :
+- Login the Customer account.
+- On the header bar. Click on “User”.
+- Customer click on “View profile”
+- System displays customer profile page.
+- Customer can choose option “Update information”, “Show information”, “View order detail
+
+<h5>Use Case 4: Update information</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to edit information | When customer click on “View profile”, choose “Update information” | Customer |  
+
+Main Success Scenario :
+- Login the Customer account.
+- On the header bar. Click on “View profile”.
+- Customer clicks on “Update information”.
+- Customer edit any information of user profile.
+- Customer clicks on “Update”
+- System accepts changes and update profile.
+
+
+<h5>Use Case 5: View Order Detail</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to view order detail | When customer clicks on “View Profile” then click “View order detail” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the header bar. Click on “View profile”.
+-	Admin clicks on “View order detail”.
+-	System displays the list of order that customer made.
+-	System displays all detail information (date, category, payment..)
+
+<h5>Use Case 6: View All Product</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer view all product of shop. | When customer registered and login into webpage and choose “View all product” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “View all product”.
+-	System display all type of product.
+
+<h5>Use Case 7: Add product to Wish List</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to add item into wish list. | When customer choose item and click “Add to wish list” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the webpage. Click on any item.
+-	Click “add item to my wish list”.
+-	System accepted to add item to wish list.
+-	Customer click view wish list
+-	System display all item added to wish list
+
+Alternative Scenario :
+- Customer click “Remove item from my wish list”.
+- System remove item from wish list
+
+<h5>Use Case 8: Add Product to Cart</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to add product into Cart | When customer select item and click “Add to Cart | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the webpage. Select any item.
+-	Click “Add item to my cart”
+-	System accepted to add item to the Cart
+-	Customer click “View Cart”
+-	System display a list of all item in Cart
+-	Customer can choose the payment for all item or remove item from the cart
+
+
+<h5>Use Case 9: Delete product in cart</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to add product into Cart | When customer select item and click “Add to Cart | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the webpage. Select any item.
+-	Click “Add item to my cart”
+-	System accepted to add item to the Cart
+-	Customer click “View Cart”
+-	System display a list of all item in Cart
+-	Customer can choose the payment for all item or remove item from the cart
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
