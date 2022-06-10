@@ -150,6 +150,21 @@ Use Case 1: Register
 | --- | --- | --- |
 | System must be able allowed admin and user to log into the system toper form many actions. | When someone attempts to use system functions. | Customer |  
 
+Main Success Scenario :
+- Customer click to the Login page
+- Login interface is produced.
+- Customer choose “Sign up” option
+- Customer fill in email , password and some personal information
+- Customer click “Sign up” button.
+- System accept new user and add to database
+- System displays “successfully sign-up” message.
+
+Alternative Scenarios :
+- Customer enter incorrect email:
+    - System display message “Email is not exist, please enter again”
+- Customer enter invalid or empty password
+    - System display “Invalid password, please enter again”
+
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
