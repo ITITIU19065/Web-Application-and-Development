@@ -35,16 +35,16 @@
         * [3.4.4: Entity – Relationship Diagram](#3.4.4)
         * [3.4.5: Database Relational Schema](#3.4.5)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
-    * [Section 4.1: Configure database connection:](#4.1)
-    * [Section 4.2: Add run mySQL file to add data](#4.2)
-    * [Section 4.3: Run the project:](#4.3)
-    * [Section 4.4: Login Page](#4.4)
-        * [Section 4.5: Register new account](#4.4.1)
-        * [Section 4.6: Login by new account](#4.4.2)
-* [Chapter V: References](#implementation)
-    * [Section 1: Software Processing Model](#model-processing-model)
-    * [Section 2: Execution](#execution)
-
+    * [4.1: Configure database connection:](#4.1)
+    * [4.2: Add run mySQL file to add data](#4.2)
+    * [4.3: Run the project:](#4.3)
+    * [4.4: Login Page](#4.4)
+        * [4.5: Register new account](#4.4.1)
+        * [4.6: Login by new account](#4.4.2)
+* [Chapter V: References](#References)
+    * [5.1: Database Diagram](#5.1)
+    * [5.2: User Sequence Diagram](#5.2)
+    * [5.3: Admin Sequence Diagram](#5.3)
 
 
 <h2 id="intro">Chapter I: Introduction</h2>
@@ -804,9 +804,15 @@ Admin add new item Activity Diagram:
          
 ![image](https://user-images.githubusercontent.com/94380995/173028443-17df4ac7-327d-446f-96ea-3ac698dd7c00.png)<br/>
 
-        
+<h2 id="References">CHAPTER V: - References</h2> <br/>
+&emsp;&emsp;<h4 id="5.1">5.1: Database Diagram</h4>
+- <a href="https://drive.google.com/drive/folders/1z5RpyU-DXj6KJPEHa6Y50Q7O3w1UU878?usp=sharing">Database Diagram</a>
 
+&emsp;&emsp;<h4 id="5.2">5.2: User Sequence Diagram</h4>
+- <a href="https://drive.google.com/drive/folders/1CbqTtnJvTrAGwmIqPMYHL6jJPqOAXwWU?usp=sharing">User Sequence Diagram</a>
 
+&emsp;&emsp;<h4 id="5.3">5.3: Admin Sequence Diagram</h4>
+- <a href="https://drive.google.com/drive/folders/1KnS4l2iyG9bDyOSXrSTEKhpADcUosIqo?usp=sharing">Admin Sequence Diagram</a>
 
 
 
