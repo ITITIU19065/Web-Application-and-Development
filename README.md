@@ -71,7 +71,7 @@ During the project, some of the below issues may have higher chances to be resol
 &emsp;<h3 id="2.1">2.1.	Similar Applications / Systems:</h3>
 There are obviously many websites that provides the same functionalities as our website, and most of them are better in multiple ways:
 
-<h4><a href="https://shopee.vn/">Shoppe Link</a></h4>
+<h4><a href="https://shopee.vn/">Shoppe</a></h4>
 
 Strengths:
 - Users can login to an account.
@@ -83,34 +83,42 @@ Strengths:
 - Has detailed discount voucher for each item.
 - Has many of hot deal.
 - User can become a Shopee seller.
-- Weaknesses: There are no significant weaknesses for this website.
+Weaknesses: 
+- There are no significant weaknesses for this website.
 
 
--	Tiki: https://tiki.vn/
-o	Strengths:
-	This webpage has sufficient search bar.
-	Has detailed discount voucher for each item.
-	Has many of hot deal.
-	Detailed homepage.
-	Also contains recommendation for each items.
-o	Weaknesses: There are no significant weaknesses for this website.
--	Lazada: https://www.lazada.vn/ 
-o	Strengths:
-	User can login to an account.
-	Has a vertical search bar
-o	Weaknesses:
-	The design is not eye-catching.
-	There are no significant weaknesses for this website.
--	Sendo: https://www.sendo.vn/
-o	Strengths:
-	Has a sufficient search bar.
-	Has a chat box for users.
-	Has a list recommendation for each item.
-	Also has discount voucher, but not too many.
-o	Weaknesses:
-	The design is quite simplistic, but it is still nice to look at.
-	There are no significant weaknesses for this website.
--	And many more…
+<h4><a href=" https://tiki.vn/">Tiki</a></h4>
+
+Strengths:
+- This webpage has sufficient search bar.
+- Has detailed discount voucher for each item.
+- Has many of hot deal.
+- Detailed homepage.
+- Also contains recommendation for each items.
+Weaknesses: 
+- There are no significant weaknesses for this website.
+	
+<h4><a href="https://www.lazada.vn/">Lazada</a></h4>
+
+Strengths:
+- User can login to an account.
+- Has a vertical search bar
+Weaknesses:
+- The design is not eye-catching.
+- There are no significant weaknesses for this website.
+
+<h4><a href="https://www.lazada.vn/">Sendo</a></h4>
+
+Strengths:
+- Has a sufficient search bar.
+- Has a chat box for users.
+- Has a list recommendation for each item.
+- Also has discount voucher, but not too many.
+- Weaknesses:
+- The design is quite simplistic, but it is still nice to look at.
+- There are no significant weaknesses for this website.
+
+And many more…
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
