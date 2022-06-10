@@ -108,7 +108,13 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         &emsp;&emsp;&emsp; At Edit produt page, admin can show product by category name, brand name, or show all newest and oldes product in system <br/>       
         ![image](https://user-images.githubusercontent.com/94380995/173024148-6e884485-0a96-4a6d-8f26-b5d34f452180.png)<br/>
          &emsp;&emsp;&emsp; to edit product, Admin need to select product id first. after that, filling all fields in edit box. and system will notification if it is successfully <br/>
-        ![image](https://user-images.githubusercontent.com/94380995/173024601-1f55e07e-5ac9-4eab-a505-31381ffb27c7.png)<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173024895-90019f9c-684f-4985-beca-97f7276b003d.png)<br/>
+        &emsp;&emsp; 4.9.6:Order Page<br/>
+        &emsp;&emsp;&emsp; At Edit produt page, admin can show product by category name, brand name, or show all newest and oldes product in system <br/>       
+        ![image](https://user-images.githubusercontent.com/94380995/173024148-6e884485-0a96-4a6d-8f26-b5d34f452180.png)<br/>
+         &emsp;&emsp;&emsp; to edit product, Admin need to select product id first. after that, filling all fields in edit box. and system will notification if it is successfully <br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173024895-90019f9c-684f-4985-beca-97f7276b003d.png)<br/>
+
 
 
 
