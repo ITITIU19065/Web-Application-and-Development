@@ -88,6 +88,7 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173020449-1a7fbc06-5f6e-4202-9f37-674c9a77e219.png)<br/>
           &emsp;&emsp;&emsp;&emsp;*Condition 2: if admin fill all fields and valid, system will add new product into dababase and display it on line new product, and system will display for admin by message "successfully insert new product"<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173020875-c616adab-870b-4113-a97f-1b964da22f4d.png)<br/>
+         ![image](https://user-images.githubusercontent.com/94380995/173023661-3e1c0190-71a4-420b-8a43-b92f9cecf655.png)<br/>
         &emsp;&emsp; 4.9.2: insert brand product<br/>
         &emsp;&emsp;&emsp; in insert new brand box, admin have to input new brand name to insert. similar with deleting brand, admin need to select name of brand to delete.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/173021915-93ee9bee-5efe-4cca-8abd-7efd830af83b.png)<br/>
@@ -98,11 +99,18 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         ![image](https://user-images.githubusercontent.com/94380995/173022714-7d19941c-fa0a-47ca-9dc1-fd7b4641f645.png)<br/>
          &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173022849-4e42fd9b-daad-42a4-9686-9183d4f9575b.png)<br/>
-          &emsp;&emsp; 4.9.4: insert sercurity question<br/>
+        &emsp;&emsp; 4.9.4: insert sercurity question<br/>
         &emsp;&emsp;&emsp; in insert new sercurity question box, admin have to input new sercurity question to insert. similar with deleting sercurity question, admin need to select sercurity question to delete.<br/>       
         ![image](https://user-images.githubusercontent.com/94380995/173023083-b29d9009-333f-4f2e-af14-5d005c3dcd6b.png)<br/>
          &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/173023223-a969a644-c2b9-4e02-8fd5-8d6aab7731bf.png)<br/>
+        &emsp;&emsp; 4.9.5:Edit product Page<br/>
+        &emsp;&emsp;&emsp; At Edit produt page, admin can show product by category name, brand name, or show all newest and oldes product in system <br/>       
+        ![image](https://user-images.githubusercontent.com/94380995/173024148-6e884485-0a96-4a6d-8f26-b5d34f452180.png)<br/>
+         &emsp;&emsp;&emsp; to edit product, Admin need to select product id first. after that, filling all fields in edit box. and system will notification if it is successfully <br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173024601-1f55e07e-5ac9-4eab-a505-31381ffb27c7.png)<br/>
+
+
 
 
             
