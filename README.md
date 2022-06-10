@@ -17,10 +17,8 @@
 * [Chapter II: LITERATURE REVIEW](#II)
     * [2.1: Similar Applications / Systems:](#2.1)	
     * [2.2: Platform and Tools Review](#2.2)
-    * [Section 3: JavaScript](#javascript)
-    * [Section 4: Node & ExpressJS](#node-expressjs)
-* [Chapter III: Requirement Analysis](#requirement-analysis)
-    * [Section 1: Functional and Non – Functional requirements](#functional)
+* [Chapter III: SYSTEM DESIGN](#III)
+    * [3.1.	System Requirement Specification](#3.1)
     * [Section 2: Risk Register](#risk-register)
     * [Section 3: Resource Requirement](#resource-requirement)
         * [Section 3.1: Hardware Resources](#hardware)
@@ -140,6 +138,9 @@ The tools used for this project are:
 Framework:
 - BoostTrap
 
+
+<h2 id="III">Chapter III: SYSTEM DESIGN</h2>
+&emsp;<h3 id="3.1">3.1.	System Requirement Specification</h3>
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
