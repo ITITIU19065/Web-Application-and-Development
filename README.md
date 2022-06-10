@@ -31,7 +31,8 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987893-72c4f324-7b1c-40ef-9d70-3188bb8677f2.png)<br/>
         &emsp;&emsp;&emsp; *Condition 2: if all fields input by user is valid, the website send redirect to index Page of ecommerce shopping.<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172988164-b3f7ab2d-ad13-4b33-80cd-7bf0095c1609.png)<br/><br/>
-    &emsp; 4.5: Index Home Page Of User<br/>![image](https://user-images.githubusercontent.com/94380995/172990816-a6655496-cdd1-4170-8dda-1d2c10dcbd68.png)<br/>
+    &emsp; 4.5: Index Home Page Of User<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/172990816-a6655496-cdd1-4170-8dda-1d2c10dcbd68.png)<br/>
         &emsp;&emsp; - In index home page of user, user can use all of function such as: 
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172989456-fbab2318-8c66-4dbb-91c1-641270112030.png)<br/>
             &emsp;&emsp;&emsp; + My WishList: wish list will store all product which user like in database and load it on the index page when user login. when user click Add Wish Button this product will be stored in database and display in wishList area or wishList Page<br/>
@@ -43,11 +44,30 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
             &emsp;&emsp; 4.5.1: Product Line:<br/>
             &emsp;&emsp;&emsp; - there are 3 line to dislay product: <br/>
             &emsp;&emsp;&emsp;&emsp; + Newest Product: this line will display newest product in system <br/>
-             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990271-fe2ff0e8-9e56-4891-84f1-282becbac775.png)<br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172990271-fe2ff0e8-9e56-4891-84f1-282becbac775.png)<br/>
             &emsp;&emsp;&emsp;&emsp; + All product: this line will show all product in system <br/>
-             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990351-e6f1be98-fc8e-47b4-b627-d6a2e31bbf30.png)<br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172990351-e6f1be98-fc8e-47b4-b627-d6a2e31bbf30.png)<br/>
             &emsp;&emsp;&emsp;&emsp; + Sale off Product: display all sale of product in system include discount percent, discout price and initial price. product at this line will be added "HOT" tag on image<br/>
-             &emsp;![image](https://user-images.githubusercontent.com/94380995/172990600-4cfb0804-a288-4d48-8b66-80dcb230c94a.png)<br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172990600-4cfb0804-a288-4d48-8b66-80dcb230c94a.png)<br/>
+            &emsp; - all of div product tag have 3 buton: add to cart, add wishList, view detail.
+        &emsp; 4.6: Add WishList button<br/>
+            &emsp;&emsp; when User clip Add wish list button, it will call Addwish List Servlet to collect productID and add into database by userID. after that, list of wish List will be display in wishlist area or in WishList page. <br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172991792-6e6bc0c4-d75e-474d-8557-72ad7b745723.png)<br/>
+            &emsp;&emsp; - in wishlist page: there are 2 button: delete button to detele product from wishlist or add to cart button to add into cart list<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172991948-a711e633-fa2c-4750-a0bc-2eb1fcf54a73.png)<br/>
+            &emsp;&emsp; - if this product is already exist in wishlist the system will send message danger for user in wishlist page<br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172993046-580a4a44-f763-4639-9583-15b6a80ee278.png)<br/>
+        &emsp; 4.7: View Detail button<br/>
+            &emsp;&emsp; when user click view detail button, the website will send redirect to Detail page. in there user can see all information of product such as: name, price, discount price, quantity remain instock, and there are 2 button add to cart and add to add to wish list. user can also order with mulpti quantity but it can not get over quantity in stock. if not the system will send danger message for user in cart.jsp page <br/>
+            &emsp;![image](https://user-images.githubusercontent.com/94380995/172992202-b66fa46c-67c2-4b95-b2b0-7cc45a0adcbe.png)<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172992832-d180fce9-e472-46e3-8a10-d73ccfaad433.png)<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172992869-92f340fd-15b2-4179-b217-5a73c4c98327.png)<br/>
+        
+
+            
+
+
+
 
 
 
