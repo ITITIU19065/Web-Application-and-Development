@@ -45,7 +45,7 @@
     * [5.1: Database Diagram](#5.1)
     * [5.2: User Sequence Diagram](#5.2)
     * [5.3: Admin Sequence Diagram](#5.3)
-
+    * [5.4: Class Diagram](#5.4)
 
 <h2 id="intro">Chapter I: Introduction</h2>
     &emsp;<h3 id="1.1">1.1: Motivation</h3>
@@ -814,8 +814,8 @@ Admin add new item Activity Diagram:
 &emsp;&emsp;<h4 id="5.3">5.3: Admin Sequence Diagram</h4>
 - <a href="https://drive.google.com/drive/folders/1KnS4l2iyG9bDyOSXrSTEKhpADcUosIqo?usp=sharing">Admin Sequence Diagram</a>
 
-
-
+&emsp;&emsp;<h4 id="5.4">5.4: Class Diagram</h4>
+- <a href="https://drive.google.com/drive/folders/1F3X8eE4ZBVhrwmIe9tjHthVqC_L5tne5?usp=sharing">5.4: Class Diagram</a>
             
 
 
