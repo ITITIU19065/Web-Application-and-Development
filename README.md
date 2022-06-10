@@ -645,7 +645,9 @@ Admin add new item Activity Diagram:
 
 &emsp;&emsp;<h4 id="3.4.6">3.4.6: Class Diagram</h4>
 
-![Entity Diagram drawio](https://user-images.githubusercontent.com/94380995/173109666-f5a72a58-cada-45ba-860d-0f04dceba3b0.png)
+![Class_Diagram drawio (1)](https://user-images.githubusercontent.com/94380995/173110287-15bc2ae5-aa6c-4033-9beb-bfba96a8b9fd.png)
+
+
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
