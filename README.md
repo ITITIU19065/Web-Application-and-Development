@@ -10,10 +10,10 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         ![image](https://user-images.githubusercontent.com/94380995/172984921-11d6cc30-a4ae-4dd2-9079-013a5ca8845b.png)<br/><br/>
     &emsp; 4.3: Run the project:<br/>
         ![image](https://user-images.githubusercontent.com/94380995/172985173-44d4d2cd-3631-4b77-8717-02ac93bc0e2c.png)<br/>
-         &emsp; - Choose server Tomcat to run projet
+        &emsp;&emsp;; - Choose server Tomcat to run projet
         ![image](https://user-images.githubusercontent.com/94380995/172985267-acfae45d-2809-4f53-b33f-2e52419fd67a.png)<br/><br/>
     &emsp; 4.4: Login Page<br/>
-        &emsp; - after run project, the login page will appeare to requirt the user login before go to index page of website.<br/>
+        &emsp;&emsp; - after run project, the login page will appeare to requirt the user login before go to index page of website.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/172986125-010066c3-88f6-4d27-b73f-cc8e8b53fdb6.png)<br/>
         &emsp;&emsp; 4.4.1: Register new account.<br/>
         &emsp;&emsp;&emsp; *Condition 1: if user does not input anything and click Register button. Website will send danger message for user to input all fields.<br/>
@@ -31,6 +31,19 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172987893-72c4f324-7b1c-40ef-9d70-3188bb8677f2.png)<br/>
         &emsp;&emsp;&emsp; *Condition 2: if all fields input by user is valid, the website send redirect to index Page of ecommerce shopping.<br/>
         &emsp;![image](https://user-images.githubusercontent.com/94380995/172988164-b3f7ab2d-ad13-4b33-80cd-7bf0095c1609.png)<br/><br/>
+    &emsp; 4.5: Index Home Page Of User<br/>
+        &emsp;&emsp; - In index home page of user, user can use all of function such as: 
+        &emsp;![image](https://user-images.githubusercontent.com/94380995/172989456-fbab2318-8c66-4dbb-91c1-641270112030.png)<br/>
+            &emsp;&emsp;&emsp; + My WishList: wish list will store all product which user like in database and load it on the index page when user login. when user click Add Wish Button this product will be stored in database and display in wishList area or wishList Page<br/>
+            &emsp;&emsp;&emsp; + My Acount: here store all information of user such as: oreders detail, prersonal address user for order, and user also update information at here.<br/>
+            &emsp;&emsp;&emsp; + My Cart: all of product which user want to buy, will be store at here, and user can choose quantity size, and system will calucate subtotal, VAT and total payment for this order. But if user log out before complete the order, all of products in cart list will be deleted.<br/>
+            &emsp;&emsp;&emsp; + log out and delete all product in cart list then send redirect to login page.<br/>
+            &emsp;&emsp;&emsp; + search area: use can search product by name.<br/>
+            &emsp;&emsp;&emsp; + search by category navbar: user can search by category name, brand name, and price.<br/>
+
+
+
+
 
 
     
