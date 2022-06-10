@@ -170,10 +170,8 @@ Alternative Scenarios :
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
-| System must be able allowed admin and user to log into the system to
-perform many actions. | When someone attempts to use
-system functions.
- | Admin, customer |  
+| System must be able allowed admin and user to log into the system to perform many actions. | When someone attempts to use
+system functions. | Admin, customer |  
 
 Main Success Scenario :
 - User selects a login option.
