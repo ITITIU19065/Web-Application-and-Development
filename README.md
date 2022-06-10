@@ -88,11 +88,21 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173020449-1a7fbc06-5f6e-4202-9f37-674c9a77e219.png)<br/>
           &emsp;&emsp;&emsp;&emsp;*Condition 2: if admin fill all fields and valid, system will add new product into dababase and display it on line new product, and system will display for admin by message "successfully insert new product"<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173020875-c616adab-870b-4113-a97f-1b964da22f4d.png)<br/>
-        &emsp;&emsp; 4.9.1: insert brand product<br/>
+        &emsp;&emsp; 4.9.2: insert brand product<br/>
         &emsp;&emsp;&emsp; in insert new brand box, admin have to input new brand name to insert. similar with deleting brand, admin need to select name of brand to delete.<br/>
         ![image](https://user-images.githubusercontent.com/94380995/173021915-93ee9bee-5efe-4cca-8abd-7efd830af83b.png)<br/>
          &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
          ![image](https://user-images.githubusercontent.com/94380995/173022043-564b838e-4a2f-45b5-b95d-c8e2f18ece34.png)<br/>
+         &emsp;&emsp; 4.9.3: insert category product<br/>
+        &emsp;&emsp;&emsp; in insert new category box, admin have to input new category name to insert. similar with deleting category, admin need to select name of category to delete.<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173022714-7d19941c-fa0a-47ca-9dc1-fd7b4641f645.png)<br/>
+         &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
+         ![image](https://user-images.githubusercontent.com/94380995/173022849-4e42fd9b-daad-42a4-9686-9183d4f9575b.png)<br/>
+          &emsp;&emsp; 4.9.4: insert sercurity question<br/>
+        &emsp;&emsp;&emsp; in insert new sercurity question box, admin have to input new sercurity question to insert. similar with deleting sercurity question, admin need to select sercurity question to delete.<br/>       
+        ![image](https://user-images.githubusercontent.com/94380995/173023083-b29d9009-333f-4f2e-af14-5d005c3dcd6b.png)<br/>
+         &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173023223-a969a644-c2b9-4e02-8fd5-8d6aab7731bf.png)<br/>
 
 
             
