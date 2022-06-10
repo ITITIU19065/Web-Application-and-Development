@@ -111,9 +111,11 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         ![image](https://user-images.githubusercontent.com/94380995/173024895-90019f9c-684f-4985-beca-97f7276b003d.png)<br/>
         &emsp;&emsp; 4.9.6:Order Page<br/>
         &emsp;&emsp;&emsp; At Order page, admin can show all order of users in system.  <br/>       
-        ![image](https://user-images.githubusercontent.com/94380995/173024148-6e884485-0a96-4a6d-8f26-b5d34f452180.png)<br/>
-         &emsp;&emsp;&emsp; to edit product, Admin need to select product id first. after that, filling all fields in edit box. and system will notification if it is successfully <br/>
-        ![image](https://user-images.githubusercontent.com/94380995/173024895-90019f9c-684f-4985-beca-97f7276b003d.png)<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173027156-89eeb60f-3d60-48c2-a789-711ad3dfd4b2.png)<br/>
+         &emsp;&emsp;&emsp; if admin click delivery button, the system will set status of order by order Id and update it into database, and change the button delivery to "successfully status" <br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173027614-7312c3aa-8fa5-4c43-8273-a15a0797aec7.png)<br/>
+         &emsp;&emsp;&emsp; system also change "Cancel " button on user side to "complete". it means the user can not cancel order if it is completed delivery <br/>![image](https://user-images.githubusercontent.com/94380995/173028089-ccc9db42-4817-4010-a340-294759c3dfe5.png)<br/>
+
         
 
 
