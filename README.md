@@ -72,6 +72,14 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
             &emsp;&emsp; if fault detail of account is not empty<br/>
             ![image](https://user-images.githubusercontent.com/94380995/172997710-3816e139-039e-47e5-9227-a89ecccb3b26.png)<br/>
             &emsp;&emsp; click Confirm Order to finish order.<br/>
+         &emsp; 4.9: My Account Page<br/>
+            &emsp;&emsp;in my acount page use can show all order, Account detail, or Update account di detail<br/>
+            &emsp;&emsp;Before admin delivery user's order, user can Cancel order by click Cancel order(delete order from database). or user can view detail all of order <br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172998926-8c9d6ad5-c84c-4767-89b6-cb30e4b2baf0.png)<br/>
+            &emsp;&emsp;user can view account detail and update profile<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172999276-6a51ece4-78d1-4b03-866c-98272a99eb71.png)<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172999337-5998e303-ba90-4979-95fb-8c935d515ef4.png)<br/>
+
 
 
             
