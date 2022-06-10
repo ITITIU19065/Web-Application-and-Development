@@ -22,7 +22,7 @@
     * [3.2: Functional Requiremen](#3.2)
     * [3.3: Non-functional Requirements](#3.3)
         * [3.3.1: Product Requirements](#3.3.1)
-        * [Section 3.2: Software Resources](#software)
+        * [3.3.2: Organizational Requirements](#3.3.2)
         * [Section 3.3: Human Resources](#human)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
     * [Section 4.1: Configure database connection:](#4.1)
@@ -563,6 +563,10 @@ Main Success Scenario :
 | --- | --- | --- |
 | The System shall include 2 types of accounts: Customer and Admin. If a password is forgotten by a system user, they have to recover password by answer security question. Interface action and elements should be consistent. The system should be implemented with simple HTML interfaces for it to be easy to understand and easy to learn. | The system should response to user actions within 20ms. The system should handle 100 users/second | Database processing time should not exceed 100ms. The system shall facilitate data integrity | 
 
+&emsp;&emsp;<h4 id="3.3.2">3.3.2: Organizational Requirements</h4>
+| Delivery Requirements | Implementation Requirements |
+| --- | --- |
+| The system shall be deployed within six months. The system shall be completed within the allocated budget. | The system should be implemented with HTML and CSS for interfaces, PHP for sever side scripting, JSP& Servlet, Tomcat for the validation and MYSQL for database management system. The environment that shall be hosting the system should contain minimum hardware requirements. The environmental that shall be hosting the system should contain minimum software requirements. (Windows 10) | 
 
 
 
