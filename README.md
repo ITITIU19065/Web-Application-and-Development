@@ -20,8 +20,8 @@
 * [Chapter III: SYSTEM DESIGN](#III)
     * [3.1.	System Requirement Specification](#3.1)
     * [3.2: Functional Requiremen](#3.2)
-    * [Section 3: Resource Requirement](#resource-requirement)
-        * [Section 3.1: Hardware Resources](#hardware)
+    * [3.3: Non-functional Requirements](#3.3)
+        * [3.3.1: Product Requirements](#3.3.1)
         * [Section 3.2: Software Resources](#software)
         * [Section 3.3: Human Resources](#human)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
@@ -554,6 +554,16 @@ Main Success Scenario :
 -	System display all customer order status.
 -	Admin click “Delivery”
 -	System change order status to delived. And a shipper of shop will automatically get the order.
+
+
+&emsp;<h3 id="3.3">3.3:	Non-functional Requirements</h3>
+&emsp;&emsp;<h4 id="3.3.1">3.3.1: Product Requirements</h4>
+
+| Usability Requirements | Efficiency Requirements | Performance Requirements |
+| --- | --- | --- |
+| The System shall include 2 types of accounts: Customer and Admin. If a password is forgotten by a system user, they have to recover password by answer security question. Interface action and elements should be consistent. The system should be implemented with simple HTML interfaces for it to be easy to understand and easy to learn. | The system should response to user actions within 20ms. The system should handle 100 users/second | Database processing time should not exceed 100ms. The system shall facilitate data integrity | 
+
+
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
