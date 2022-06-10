@@ -44,8 +44,11 @@
 
 
 <h2 id="intro">Introduction</h2>
-    <h3 id="mativation">Motivation</h3>
+    &emsp;<h3 id="mativation">Motivation</h3>
+    &emsp;&emsp;<p>When deciding where to sell products online, many merchants choose between selling on a marketplace and creating their own website. While each option has its own set of pros and cons – and there is no one-size-fits-all solution that works perfectly for everyone – we believe businesses that are truly serious about ecommerce should have their own website.
 
+    Of course, marketplaces (like Amazon, Etsy, eBay, and Walmart Marketplace) can be great sales channels for many merchants, but there are plenty of limitations. And according to BigCommerce’s History of Ecommerce, customers will soon expect to be able to “research, browse, shop, and purchase seamlessly between different devices and on different platforms (like a standalone web store, an Amazon presence, etc.)” — a marketplace alone is not enough.
+</p>
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
