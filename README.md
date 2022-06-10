@@ -23,7 +23,9 @@
     * [3.3: Non-functional Requirements](#3.3)
         * [3.3.1: Product Requirements](#3.3.1)
         * [3.3.2: Organizational Requirements](#3.3.2)
-        * [Section 3.3: Human Resources](#human)
+    * [3.4: System Design Specification](#3.4)
+        * [3.4.1: Use – Case Diagram](#3.4.1)
+        * [3.4.2: Sequence Diagram](#3.4.2)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
     * [Section 4.1: Configure database connection:](#4.1)
     * [Section 4.2: Add run mySQL file to add data](#4.2)
@@ -572,6 +574,11 @@ Main Success Scenario :
 &emsp;&emsp;<h4 id="3.4.1">3.4.1: Use – Case Diagram</h4>
 
 ![image](https://user-images.githubusercontent.com/94380995/173072600-3561f55e-24ea-4bcf-b19f-ab128f7f9859.png)<br>
+
+
+&emsp;&emsp;<h4 id="3.4.2">3.4.2: Sequence Diagram</h4>
+Login to an Account [Use case 1]:
+![image](https://user-images.githubusercontent.com/94380995/173073994-dbdedfcf-06a3-4810-844f-906624300077.png)
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
