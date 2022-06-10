@@ -13,10 +13,8 @@
 * [Chapter I:Introduction](#intro)
     * [1.1: Motivation](#1.1)
     * [1.2:	Problems Statement](#1.2)
-        * [Motivation](#motivation)
-        * [Objection](#objection)
-        * [Scope](#scope)
-* [Chapter II:Technology](#technology)
+    * [1.3: Scope](#1.3)
+* [Chapter II: LITERATURE REVIEW](#II)
     * [Section 1: HTML/CSS](#html-css)	
     * [Section 2: MySQL Workbench](#MySQL)
     * [Section 3: JavaScript](#javascript)
@@ -62,7 +60,14 @@ Some of the problems that the team will likely encounter throughout the process 
 - There may be difficulties in working on the project together since teamwork has never been easy.
 
 
+&emsp;<h3 id="1.3">1.3:	Scope</h3>
+During the project, some of the below issues may have higher chances to be resolved:
+- Get more used to coding and designing web pages.
+- Work together to create a decent looking website (e.g., a website that looks good enough, but not too spectacular).
+- Finish some of the main functionalities of a basic website (e.g., Order, Get Payment, search for items, etc.).
+- Try to understand each other and share the work logically.
 
+<h2 id="II">Chapter II: LITERATURE REVIEW</h2>
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
