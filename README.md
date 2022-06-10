@@ -34,6 +34,7 @@
         * [3.4.3: Activity Diagram](#3.4.3)
         * [3.4.4: Entity – Relationship Diagram](#3.4.4)
         * [3.4.5: Database Relational Schema](#3.4.5)
+        * [3.4.6: Class Diagram](#3.4.6)
 * [Chapter IV: CHAPTER IV: - SYSTEM IMPLEMENTATION](#Chapter_IV)
     * [4.1: Configure database connection:](#4.1)
     * [4.2: Add run mySQL file to add data](#4.2)
@@ -641,6 +642,11 @@ Admin add new item Activity Diagram:
 &emsp;&emsp;<h4 id="3.4.5">3.4.5: Database Relational Schema</h4>
 
 ![image](https://user-images.githubusercontent.com/94380995/173092686-d4a82034-d63c-4544-8155-470fa630c2a2.png)
+
+&emsp;&emsp;<h4 id="3.4.6">3.4.6: Class Diagram</h4>
+
+![Entity Diagram drawio](https://user-images.githubusercontent.com/94380995/173109666-f5a72a58-cada-45ba-860d-0f04dceba3b0.png)
+
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
