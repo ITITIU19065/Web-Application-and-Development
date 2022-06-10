@@ -65,7 +65,14 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
         &emsp; 4.8: Add to Cart button<br/>
             &emsp;&emsp; when user click add to button product will be added into cart list. if product is already exist in cart, quantity of this product will increasing by 1. if user inceasing quantity over qunatity instock system will send message. or if user decreasing quantity equal zero, system will automically remove this product. system will auto calculate subtal, payment, and VAT fee for user <br/>
             ![image](https://user-images.githubusercontent.com/94380995/172994571-de4f34b1-a671-47a1-92a7-c0ff85f8fc24.png)<br/>
-        
+        &emsp; 4.8: Processing Order button<br/>
+            &emsp;&emsp;when user click Processing Order, system will send redirect to checkOut.jsp and display all cart list include size of product. in this page there 2 option for user choose. create order with default address of account(if it null user need to update address for account, and system alse send message for user to know that) or user can choose shipped by another address <br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172997474-7d5ba2bb-28a2-496c-9a9f-d43f867f531c.png)<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172997546-b0118ba4-5c6c-4a53-ae72-5f1e4a685ad2.png)<br/>
+            &emsp;&emsp; if fault detail of account is not empty<br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172997710-3816e139-039e-47e5-9227-a89ecccb3b26.png)<br/>
+            &emsp;&emsp; click Confirm Order to finish order.<br/>
+
 
             
 
