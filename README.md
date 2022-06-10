@@ -144,7 +144,7 @@ Framework:
 List out all of the user’s requirement, which is also the system’s functionalities, in this section.
 
 &emsp;<h3 id="3.2">3.2: Functional Requiremen</h3>
-Use Case 1: Register
+<h5>Use Case 1: Register</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
