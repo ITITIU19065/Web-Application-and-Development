@@ -69,6 +69,46 @@ During the project, some of the below issues may have higher chances to be resol
 
 <h2 id="II">Chapter II: LITERATURE REVIEW</h2>
 &emsp;<h3 id="2.1">2.1.	Similar Applications / Systems:</h3>
+There are obviously many websites that provides the same functionalities as our website, and most of them are better in multiple ways:
+-	Shoppee: <a href="https://shopee.vn/">Shoppe Link</a>
+o	Strengths:
+	Users can login to an account.
+ 
+	Users have their own account, which can connect to Facebook and Instagram.
+	User can find the item via item categories.
+	Users can find item via recommendation of “Most search for”.
+	Users can download mobile app via QR code on the webpage.
+	Users can view some discount packages for many kinds of item.
+	Has detailed discount voucher for each item.
+	Has many of hot deal.
+	User can become a Shopee seller.
+o	Weaknesses: There are no significant weaknesses for this website.
+-	Tiki: https://tiki.vn/
+o	Strengths:
+	This webpage has sufficient search bar.
+	Has detailed discount voucher for each item.
+	Has many of hot deal.
+	Detailed homepage.
+	Also contains recommendation for each items.
+o	Weaknesses: There are no significant weaknesses for this website.
+-	Lazada: https://www.lazada.vn/ 
+o	Strengths:
+	User can login to an account.
+	Has a vertical search bar
+o	Weaknesses:
+	The design is not eye-catching.
+	There are no significant weaknesses for this website.
+-	Sendo: https://www.sendo.vn/
+o	Strengths:
+	Has a sufficient search bar.
+	Has a chat box for users.
+	Has a list recommendation for each item.
+	Also has discount voucher, but not too many.
+o	Weaknesses:
+	The design is quite simplistic, but it is still nice to look at.
+	There are no significant weaknesses for this website.
+-	And many more…
+
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
