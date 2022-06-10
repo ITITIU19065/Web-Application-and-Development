@@ -19,7 +19,7 @@
     * [2.2: Platform and Tools Review](#2.2)
 * [Chapter III: SYSTEM DESIGN](#III)
     * [3.1.	System Requirement Specification](#3.1)
-    * [Section 2: Risk Register](#risk-register)
+    * [3.2: Functional Requiremen](#3.2)
     * [Section 3: Resource Requirement](#resource-requirement)
         * [Section 3.1: Hardware Resources](#hardware)
         * [Section 3.2: Software Resources](#software)
@@ -141,6 +141,16 @@ Framework:
 
 <h2 id="III">Chapter III: SYSTEM DESIGN</h2>
 &emsp;<h3 id="3.1">3.1.	System Requirement Specification</h3>
+List out all of the user’s requirement, which is also the system’s functionalities, in this section.
+
+&emsp;<h3 id="3.2">3.2: Functional Requiremen</h3>
+Use Case 1: Register
+
+| Req.ID | Requirement Name | Detailed Description | Type |
+| --- | --- | --- | --- |
+| 001 | Register an account | If the user doesn’t have an account, then he will be asked to register. | Functional requirement |  
+| 002 | Log in | If the customer or manager already had an account, they can log in. | Functional Requirement |
+| 003 | Change password | Allow users  to change their password. | Functional Requirement |
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
