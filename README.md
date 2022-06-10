@@ -16,7 +16,7 @@
     * [1.3: Scope](#1.3)
 * [Chapter II: LITERATURE REVIEW](#II)
     * [2.1: Similar Applications / Systems:](#2.1)	
-    * [Section 2: MySQL Workbench](#MySQL)
+    * [2.2: Platform and Tools Review](#2.2)
     * [Section 3: JavaScript](#javascript)
     * [Section 4: Node & ExpressJS](#node-expressjs)
 * [Chapter III: Requirement Analysis](#requirement-analysis)
@@ -119,6 +119,26 @@ Strengths:
 - There are no significant weaknesses for this website.
 
 And many more…
+
+&emsp;<h3 id="2.2">2.2: Platform and Tools Review</h3>
+
+The programming languages used for this project are:
+- Hyper Text Markup Language (HTML).
+- Cascading Style Sheet (CSS).
+- Structured Query Language (SQL).
+- JavaServer Page (JSP) & Servlet
+- JDBC (Java Database Connectivity)
+- Tomcat 10
+- Java
+ 
+The libraries / platforms used for this project are:
+- JSTL (Javs Standard Tag Library)
+The tools used for this project are:
+- Visual Studio Code.
+- MySQL WorkBrench.
+- Eclipse
+Framework:
+- BoostTrap
 
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
