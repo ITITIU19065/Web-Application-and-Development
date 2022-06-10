@@ -11,8 +11,8 @@
 
 ## Table of Contents:
 * [Chapter I:Introduction](#intro)
-    * [Motivation](#mativation)
-    * [The Purpose of the Project](#purpose)
+    * [1.1: Motivation](#Problems)
+    * [1.2: The Purpose of the Project](#purpose)
         * [Motivation](#motivation)
         * [Objection](#objection)
         * [Scope](#scope)
@@ -43,13 +43,15 @@
 * [Chapter VIII: References](#references)
 
 
-<h2 id="intro">Introduction</h2>
-    &emsp;<h3 id="mativation">Motivation</h3>
+<h2 id="intro">Chapter I: Introduction</h2>
+    &emsp;<h3 id="mativation">1.1: Motivation</h3>
     &emsp;&emsp;<p>When deciding where to sell products online, many merchants choose between selling on a marketplace and creating their own website. While each option has its own set of pros and cons – and there is no one-size-fits-all solution that works perfectly for everyone – we believe businesses that are truly serious about ecommerce should have their own website.</p>
 
 &emsp;&emsp;<p>
     Of course, marketplaces (like Amazon, Etsy, eBay, and Walmart Marketplace) can be great sales channels for many merchants, but there are plenty of limitations. And according to BigCommerce’s History of Ecommerce, customers will soon expect to be able to “research, browse, shop, and purchase seamlessly between different devices and on different platforms (like a standalone web store, an Amazon presence, etc.)” — a marketplace alone is not enough.
 </p>
+
+&emsp;<h3 id="Problems">1.2.	Problems Statement</h3>
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
