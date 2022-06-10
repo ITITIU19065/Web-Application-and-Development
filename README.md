@@ -296,6 +296,269 @@ Main Success Scenario :
 -	System display a list of all item in Cart
 -	Customer can choose the payment for all item or remove item from the cart
 
+<h5>Use Case 10: Create Order</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to make order for products | When Customer clicks on “Cart” then click “order” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the header bar. Click on “dashboard”.
+-	Customer clicks on “Cart”.
+-	Custom click select all item in Cart and click “Order”
+-	System display cost and payment
+-	System display message “Do you want to make order”
+-	Customer choose “Yes” option
+-	System automatically make an order, set date and asked for customer’s address.
+-	Customer order can be view in “View order detail”
+
+Alternative Scenario :
+- If there is no item in Cart. System display “There’s no item in Cart, you cannot make an order”
+- If customer choose “Cancel” system won’t make an order
+
+
+<h5>Use Case 11: Cancel Order</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to cancel order | When Customer forgot password, click on “cancel” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the header bar. Click on “dashboard”.
+-	Customer clicks on “Cart”.
+-	Custom click select all item in Cart and click “Order”
+-	System display cost and payment
+- 	System display message “Do you want to make order”
+-	Customer choose “Yes” option
+-	System automatically make an order, set date and asked for customer’s address.
+-	Customer order can be view in “View order detail”
+
+<h5>Use Case 12: Password recovery</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed customer to recover password | When Customer forgot password, click on “forgot password” | Customer |  
+
+Main Success Scenario :
+-	Login the Customer account.
+-	On the header bar. Click on “dashboard”.
+-	Customer clicks on “Cart”.
+-	Custom click select all item in Cart and click “Order”
+-	System display cost and payment
+- 	System display message “Do you want to make order”
+-	Customer choose “Yes” option
+-	System automatically make an order, set date and asked for customer’s address.
+-	Customer order can be view in “View order detail”
+
+
+Alternative Scenario :
+- If username is not correct. System display “Incorrect usename”
+- If password is invalid or empty. System display notice.
+- If the answer does not matched
+- System display “Wrong answer. Try again”
+
+
+<h5>Use Case 13: Admin Add product</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to add new product | When administrator clicks on “Manage product” click “add new product” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	System display add item page
+-	Admin edit any information of the post.
+-	Admin clicks “Add item”.
+-	System accepted and save to the database
+
+<h5>Use Case 14: Remove Product</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to remove item | When administrator clicks on “Manage Product” then click “remove item” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	System display add item page
+-	Admin edit any information of the post.
+-	Admin clicks “Add item”.
+-	System accepted and save to the database
+
+<h5>Use Case 15: : Edit Product</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to edit new product | When administrator clicks on
+“Manage Product” then click “Edit product” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	Admin enters name/id of the product that need to be edited.
+-	Admin edit information (brand, discount, price, status,..)
+-	Admin click “Update product”
+-	System accept and save changed into database.
+
+<h5>Use Case 16: : Show all product</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to show all product | When administrator clicks on
+“Manage Product” then click “show all product” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	Admin clicks on “show all product”.
+-	System display all type of product and information
+
+<h5>Use Case 17: : Search by Brand/Category</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to search item by brand/category | When administrator clicks on
+“Manage product” then click “search” bar | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Search product”.
+-	Admin search brand/category of product on the search bar
+-	System displays all product that matched brand/category
+
+
+<h5>Use Case 19: : Add new category</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to add new category | When administrator clicks on “Manage product” choose an item and edit its category | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	Admin select an item.
+-	Admin edit new categories
+-	Admin click “Update product”
+-	System accept and save into database
+
+
+<h5>Use Case 20: : Delete category</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to delete product categories | When administrator clicks on “Manage product” select a product and delete categories | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	Admin select any product
+-	Admin select any current category.
+-	Admin select “delete”
+-	System accept and remove out of database
+
+<h5>Use Case 21: : Add new brand</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to delete brand out of the shop. | When administrator select a brand and delete | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage Product”.
+-	Admin search a brand on search bar
+-	Admin select any existed brand.
+-	Admin click “Delete brand”.
+-	System displays successfully message and remove brand from database.
+
+
+<h5>Use Case 22: : Delete brand</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to add new brand to shop | When administrator clicks on “Manage VN Accommodations” then click “Add new brand” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Add new brand”.
+-	Admin enter new brand name
+-	Admin clicks “Update Brand”.
+-	System displays successfully updated message and save new brand to database
+
+
+<h5>Use Case 23: : Add new security question</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin add new security question | When administrator clicks on “Manage user”, choose “Security” , choose add new security question | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage User”.
+-	Admin clicks on “Security”.
+-	Admin enter new security question
+-	Admin clicks on “add new security question”.
+-	System accept and add new security question to database.
+
+<h5>Use Case 24: : Delete security question</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin delete a security question | When administrator clicks on “Manage user”, choose “Security” , choose a security question to delete | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage User”.
+-	Admin clicks on “View customer order”.
+-	Admin search a user on search bar and choose him/her
+-	System display that customer information and all order that he/she made
+-	Admin can check status of customer order.
+
+
+<h5>Use Case 25: : View all customer’s order</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to view customer’s order | When admin click “Manage user”, click “View customer’s order” | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage User”.
+-	Admin clicks on “Security”.
+-	Admin choose a current security question
+-	Admin clicks “delete”.
+-	System accept and remove security question out of database
+
+<h5>Use Case 26: : Delivery</h5>
+
+| Aspect | Trigger | Actors |
+| --- | --- | --- |
+| System must be able allowed admin to manage order delivery | When user clicks on “Manage user”.
+Choose delivery | Admin |  
+
+Main Success Scenario :
+-	Login the Admin account.
+-	On the header bar. Click on “dashboard”.
+-	Admin clicks on “Manage User”.
+-	Admin clicks on “Delivery”.
+-	System display all customer order status.
+-	Admin click “Delivery”
+-	System change order status to delived. And a shipper of shop will automatically get the order.
+
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
