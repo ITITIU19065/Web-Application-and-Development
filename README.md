@@ -62,6 +62,9 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
             &emsp;![image](https://user-images.githubusercontent.com/94380995/172992202-b66fa46c-67c2-4b95-b2b0-7cc45a0adcbe.png)<br/>
             ![image](https://user-images.githubusercontent.com/94380995/172992832-d180fce9-e472-46e3-8a10-d73ccfaad433.png)<br/>
             ![image](https://user-images.githubusercontent.com/94380995/172992869-92f340fd-15b2-4179-b217-5a73c4c98327.png)<br/>
+        &emsp; 4.8: Add to Cart button<br/>
+            &emsp;&emsp; when user click add to button product will be added into cart list. if product is already exist in cart, quantity of this product will increasing by 1. if user inceasing quantity over qunatity instock system will send message. or if user decreasing quantity equal zero, system will automically remove this product. system will auto calculate subtal, payment, and VAT fee for user <br/>
+            ![image](https://user-images.githubusercontent.com/94380995/172994571-de4f34b1-a671-47a1-92a7-c0ff85f8fc24.png)<br/>
         
 
             
