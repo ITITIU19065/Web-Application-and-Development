@@ -79,7 +79,20 @@ CHAPTER 4: - SYSTEM IMPLEMENTATION<br/>
             &emsp;&emsp;user can view account detail and update profile<br/>
             ![image](https://user-images.githubusercontent.com/94380995/172999276-6a51ece4-78d1-4b03-866c-98272a99eb71.png)<br/>
             ![image](https://user-images.githubusercontent.com/94380995/172999337-5998e303-ba90-4979-95fb-8c935d515ef4.png)<br/>
-
+        &emsp; 4.9: Admin Home Page<br/>
+        &emsp;&emsp; after Admin login successfully by user name= "admin@admin" and password = "admin". System will redirect to AminIndex.jsp. in this page, Admin can insert new Product, new brand, new category and new sercurity. Also, deleting brand, category, sercurity question, by select option in select box.<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173019516-9ec0c53f-4ae6-4e6f-87eb-ecff7d9fe35f.png)<br./>
+        &emsp;&emsp; 4.9.1: insert new product<br/>
+        &emsp;&emsp;&emsp; in insert new product box, the new id is calcuted automatically by system and display it at the first line.<br/>
+         &emsp;&emsp;&emsp;&emsp;*Condition 1: if admin does not fill all fields in input from, system will notificate for admin by message<br/>
+         ![image](https://user-images.githubusercontent.com/94380995/173020449-1a7fbc06-5f6e-4202-9f37-674c9a77e219.png)<br/>
+          &emsp;&emsp;&emsp;&emsp;*Condition 2: if admin fill all fields and valid, system will add new product into dababase and display it on line new product, and system will display for admin by message "successfully insert new product"<br/>
+         ![image](https://user-images.githubusercontent.com/94380995/173020875-c616adab-870b-4113-a97f-1b964da22f4d.png)<br/>
+        &emsp;&emsp; 4.9.1: insert brand product<br/>
+        &emsp;&emsp;&emsp; in insert new brand box, admin have to input new brand name to insert. similar with deleting brand, admin need to select name of brand to delete.<br/>
+        ![image](https://user-images.githubusercontent.com/94380995/173021915-93ee9bee-5efe-4cca-8abd-7efd830af83b.png)<br/>
+         &emsp;&emsp;&emsp; the system will notificate for admin if deletion or insertion are successfully.<br/>
+         ![image](https://user-images.githubusercontent.com/94380995/173022043-564b838e-4a2f-45b5-b95d-c8e2f18ece34.png)<br/>
 
 
             
