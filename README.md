@@ -15,7 +15,7 @@
     * [1.2:	Problems Statement](#1.2)
     * [1.3: Scope](#1.3)
 * [Chapter II: LITERATURE REVIEW](#II)
-    * [Section 1: HTML/CSS](#html-css)	
+    * [2.1: Similar Applications / Systems:](#2.1)	
     * [Section 2: MySQL Workbench](#MySQL)
     * [Section 3: JavaScript](#javascript)
     * [Section 4: Node & ExpressJS](#node-expressjs)
@@ -68,6 +68,7 @@ During the project, some of the below issues may have higher chances to be resol
 - Try to understand each other and share the work logically.
 
 <h2 id="II">Chapter II: LITERATURE REVIEW</h2>
+&emsp;<h3 id="2.1">2.1.	Similar Applications / Systems:</h3>
 
 <h2 id="Chapter_IV">CHAPTER IV: - SYSTEM IMPLEMENTATION</h2> <br/>
     &emsp;<h3 id="4.1">4.1: Configure database connection:</h3> <br/>
