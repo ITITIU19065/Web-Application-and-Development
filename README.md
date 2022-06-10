@@ -390,7 +390,7 @@ Main Success Scenario :
 -	Admin clicks “Add item”.
 -	System accepted and save to the database
 
-<h5>Use Case 15: : Edit Product</h5>
+<h5>Use Case 15: Edit Product</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -406,12 +406,11 @@ Main Success Scenario :
 -	Admin click “Update product”
 -	System accept and save changed into database.
 
-<h5>Use Case 16: : Show all product</h5>
+<h5>Use Case 16: Show all product</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
-| System must be able allowed admin to show all product | When administrator clicks on
-“Manage Product” then click “show all product” | Admin |  
+| System must be able allowed admin to show all product | When administrator clicks on “Manage Product then click “show all product” | Admin |  
 
 Main Success Scenario :
 -	Login the Admin account.
@@ -420,12 +419,11 @@ Main Success Scenario :
 -	Admin clicks on “show all product”.
 -	System display all type of product and information
 
-<h5>Use Case 17: : Search by Brand/Category</h5>
+<h5>Use Case 17: Search by Brand/Category</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
-| System must be able allowed admin to search item by brand/category | When administrator clicks on
-“Manage product” then click “search” bar | Admin |  
+| System must be able allowed admin to search item by brand/category | When administrator clicks on“Manage product” then click “search” bar | Admin |  
 
 Main Success Scenario :
 -	Login the Admin account.
@@ -435,7 +433,7 @@ Main Success Scenario :
 -	System displays all product that matched brand/category
 
 
-<h5>Use Case 19: : Add new category</h5>
+<h5>Use Case 19: Add new category</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -451,7 +449,7 @@ Main Success Scenario :
 -	System accept and save into database
 
 
-<h5>Use Case 20: : Delete category</h5>
+<h5>Use Case 20: Delete category</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -466,7 +464,7 @@ Main Success Scenario :
 -	Admin select “delete”
 -	System accept and remove out of database
 
-<h5>Use Case 21: : Add new brand</h5>
+<h5>Use Case 21: Add new brand</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -482,7 +480,7 @@ Main Success Scenario :
 -	System displays successfully message and remove brand from database.
 
 
-<h5>Use Case 22: : Delete brand</h5>
+<h5>Use Case 22: Delete brand</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -497,7 +495,7 @@ Main Success Scenario :
 -	System displays successfully updated message and save new brand to database
 
 
-<h5>Use Case 23: : Add new security question</h5>
+<h5>Use Case 23: Add new security question</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -512,7 +510,7 @@ Main Success Scenario :
 -	Admin clicks on “add new security question”.
 -	System accept and add new security question to database.
 
-<h5>Use Case 24: : Delete security question</h5>
+<h5>Use Case 24: Delete security question</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -528,7 +526,7 @@ Main Success Scenario :
 -	Admin can check status of customer order.
 
 
-<h5>Use Case 25: : View all customer’s order</h5>
+<h5>Use Case 25: View all customer’s order</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
@@ -543,12 +541,11 @@ Main Success Scenario :
 -	Admin clicks “delete”.
 -	System accept and remove security question out of database
 
-<h5>Use Case 26: : Delivery</h5>
+<h5>Use Case 26: Delivery</h5>
 
 | Aspect | Trigger | Actors |
 | --- | --- | --- |
-| System must be able allowed admin to manage order delivery | When user clicks on “Manage user”.
-Choose delivery | Admin |  
+| System must be able allowed admin to manage order delivery | When user clicks on “Manage user” Choose delivery | Admin |  
 
 Main Success Scenario :
 -	Login the Admin account.
