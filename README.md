@@ -7,11 +7,13 @@
 ## Members:
 - [Nguyen Ngoc Bao  - ITITIU19084](https://www.facebook.com/profile.php?id=100008043999306)
 - [Hoang Tuan Kiet - ITITIU19065](https://www.facebook.com/tuankiet.hoang.718)
+- [Nguyen Ha Minh Tri - ITITIU19057]()
 ## Contribute:
 | Name | Job | Contribute |
 | --- | --- | --- |
-| Nguyen Ngoc Bao - ITITIU19084 | Back End,Report,Diagram | 40% |
+| Nguyen Ngoc Bao - ITITIU19084 | Back End,Report,Diagram,Front End | 55% |
 | Hoang Tuan Kiet - ITITIU19065 | Front end,Report,Power Point,Diagram  | 40% |
+| Nguyen Ha Minh Tri - ITITIU19057 | Some Database  | 5% |
 
 
 ## Table of Contents:
